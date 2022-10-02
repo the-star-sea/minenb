@@ -1,0 +1,24 @@
+{
+    "os": "Linux-5.15.0-46-generic-x86_64-with-glibc2.31",
+    "python": "3.10.4",
+    "heartbeatAt": "2022-09-01T09:26:56.950883",
+    "startedAt": "2022-09-01T09:26:56.005265",
+    "docker": null,
+    "gpu": "NVIDIA GeForce GTX 1060",
+    "gpu_count": 1,
+    "cpu_count": 12,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "/home/stone/PycharmProjects/basalt-2022-behavioural-cloning-baseline/train.py",
+    "codePath": "train.py",
+    "git": {
+        "remote": "https://github.com/minerllabs/basalt-2022-behavioural-cloning-baseline",
+        "commit": "f7a11437e38b023169f8bf7cfb938caabe787809"
+    },
+    "email": "11911611@mail.sustech.edu.cn",
+    "root": "/home/stone/PycharmProjects/basalt-2022-behavioural-cloning-baseline",
+    "host": "stone",
+    "username": "stone",
+    "executable": "/home/stone/anaconda3/envs/minerl/bin/python"
+}
